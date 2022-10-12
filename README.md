@@ -5,7 +5,7 @@
 
 #### 🤠 New to Rust?
 
-Start learning about Rust by going to the web (https://www.rust-lang.org/). Test your courage with a new programming language.
+Start learning about Rust by going to the web (https://www.rust-lang.org/).
 
 
 #### 😱 Found a bug?
