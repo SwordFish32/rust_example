@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ferris the crab 🦀️ in Rust Only</h1>
+  <h1>Ferris the crab 🦀️ made with rust</h1>
 
   <p>
     <strong>Rust / Cargo </strong>
