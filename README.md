@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Ferris the crab 🦀️ made with rust</h1>
 
-## About
+#### About
 
 *Note: Rust Instalation is required*
 
